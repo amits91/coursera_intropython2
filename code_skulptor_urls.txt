@@ -1,3 +1,10 @@
 memory: 
   http://www.codeskulptor.org/#user39_KO7GkKt0rT_7.py
   Final: http://www.codeskulptor.org/#user39_Kgk7H3WtThLaVpn.py
+
+
+Quiz 6: http://www.codeskulptor.org/#user39_qNAOqmxca5_1.py
+
+BlackJack:
+  http://www.codeskulptor.org/#user39_VoItXndmxp_0.py
+
