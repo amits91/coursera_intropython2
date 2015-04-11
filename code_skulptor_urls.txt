@@ -12,3 +12,6 @@ http://www.codeskulptor.org/#user39_V9ldHr0utf_5.py
 http://www.codeskulptor.org/#user39_V9ldHr0utf_6.py
 final: http://www.codeskulptor.org/#user39_V9ldHr0utf_9.py
 
+Quiz 6b:
+7: http://www.codeskulptor.org/#user39_42bHjm46gP_0.py
+
