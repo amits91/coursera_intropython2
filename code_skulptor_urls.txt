@@ -25,5 +25,6 @@ RiceRocks:
 
 first:
 http://www.codeskulptor.org/#user39_SCbIzVZSgf_0.py
+http://www.codeskulptor.org/#user39_SCbIzVZSgf_1.py
 
 
