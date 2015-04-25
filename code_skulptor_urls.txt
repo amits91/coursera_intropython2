@@ -30,5 +30,7 @@ http://www.codeskulptor.org/#user39_SCbIzVZSgf_3.py
 http://www.codeskulptor.org/#user39_SCbIzVZSgf_5.py
 final without animation:
 http://www.codeskulptor.org/#user39_SCbIzVZSgf_6.py
+final with animation:
+http://www.codeskulptor.org/#user39_SCbIzVZSgf_8.py
 
 
