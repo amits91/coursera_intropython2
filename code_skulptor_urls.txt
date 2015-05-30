@@ -33,4 +33,7 @@ http://www.codeskulptor.org/#user39_SCbIzVZSgf_6.py
 final with animation:
 http://www.codeskulptor.org/#user39_SCbIzVZSgf_8.py
 
+Principles of Computing 
+Merge mini project: http://www.codeskulptor.org/#user40_6THY3jroQY_1.py
+
 
